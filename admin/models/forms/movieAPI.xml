@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fieldset>
+		<field
+				name="id"
+				type="hidden"
+		/>
+		<field
+				name="url"
+				type="text"
+				label="COM_MOVIEAPI_MOVIEAPI_URL_LABEL"
+				description="COM_MOVIEAPI_MOVIEAPI_URL_DESC"
+				size="40"
+				class="inputbox"
+				default=""
+		/>
+		<field
+				name="key"
+				type="text"
+				label="COM_MOVIEAPI_MOVIEAPI_KEY_LABEL"
+				description="COM_MOVIEAPI_MOVIEAPI_KEY_DESC"
+				size="40"
+				class="inputbox"
+				default=""
+		/>
+	</fieldset>
+</form>
+
+
+<!--<form>-->
+<!--	<fieldset>-->
+<!--		<field-->
+<!--				name="id"-->
+<!--				type="hidden"-->
+<!--				/>-->
+<!--		<field-->
+<!--				name="greeting"-->
+<!--				type="text"-->
+<!--				label="COM_MOVIEAPI_MOVIEAPI_GREETING_LABEL"-->
+<!--				description="COM_MOVIEAPI_MOVIEAPI_GREETING_DESC"-->
+<!--				size="40"-->
+<!--				class="inputbox"-->
+<!--				default=""-->
+<!--				/>-->
+<!--	</fieldset>-->
+<!--</form>-->
