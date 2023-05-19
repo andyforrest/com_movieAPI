@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <movie-listing>
+        <?php foreach ($this->items as $item): ?>
+        <movie>
+            <title><?php echo $item->title; ?></title>
+            <description><?php echo $item->description; ?></description>
+        </movie>
+        <?php endforeach; ?>
+    </movie-listing>
+</root>

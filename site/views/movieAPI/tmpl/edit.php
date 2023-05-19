@@ -10,8 +10,10 @@
 // No direct access
 defined('_JEXEC') or die('Restricted access');
 
+echo "This iz the movieAPI Page"
+
 ?>
-<form action="<?php echo JRoute::_('index.php?option=com_movieAPI&layout=edit&id=' . (int) $this->item->id); ?>"
+<!-- <form action="<?php echo JRoute::_('index.php?option=com_movieAPI&layout=edit&id=' . (int) $this->item->id); ?>"
     method="post" name="adminForm" id="adminForm">
     <div class="form-horizontal">
         <fieldset class="adminform">
@@ -30,4 +32,4 @@ defined('_JEXEC') or die('Restricted access');
     </div>
     <input type="hidden" name="task" value="movieAPI.edit" />
     <?php echo JHtml::_('form.token'); ?>
-</form>
+</form> -->
