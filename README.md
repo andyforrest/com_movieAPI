@@ -37,6 +37,10 @@ Once the Joomla Movie Component is properly configured, users will be able to se
 
 2. The Joomla Movie Component has been tested on Joomla 4 and PHP 8.2.
 
+## Demo
+
+![Demo of Movie API](https://github.com/andyforrest/com_movieAPI/blob/main/demo.gif)
+
 
     
 
