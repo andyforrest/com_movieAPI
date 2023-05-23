@@ -1,8 +1,5 @@
 # com_movieAPI
 
-
-# Joomla Movie Component
-
 [![PHP](https://img.shields.io/badge/PHP-8.2-blueviolet)](https://www.php.net/)
 [![Joomla](https://img.shields.io/badge/Joomla-4-orange)](https://www.joomla.org/)
 
