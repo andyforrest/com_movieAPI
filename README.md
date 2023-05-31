@@ -21,9 +21,10 @@ To get started with the Joomla Movie Component, follow these steps:
 ## Configuration
 
 1. Obtain an API key from themoviedb.org by creating an account on their website.
-2. In the Joomla administrator panel, click new.
-3. Enter the API endpoint and API key generated from themoviedb.org, then click Save and Close.
-4. Add the Menu Item Type, Movie API to allow users of site to view content on the movie api page.
+2. In the Joomla administrator toggle menue, under components, click com_MovieAPI Menu
+3. Once directed to com_MovieAPI page, click new.
+4. Enter the API endpoint and API key generated from themoviedb.org, then click Save and Close.
+5. Add the Menu Item Type, Movie API to allow users of site to view content on the movie api page.
 
 ## Usage
 
